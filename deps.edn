@@ -1,0 +1,4 @@
+{:deps
+ {cheshire {:mvn/version "5.8.0"}
+  com.novemberain/monger {:mvn/version "3.1.0"}
+  org.clojure/clojure {:mvn/version "1.9.0"}}}
